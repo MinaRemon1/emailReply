@@ -1,0 +1,4 @@
+smtplib
+imaplib
+email
+google-generativeai
